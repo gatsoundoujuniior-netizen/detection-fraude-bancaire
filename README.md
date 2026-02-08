@@ -218,7 +218,7 @@ Responsable Technique
 
 - 📧 Email: gatsoundoujuniior@gmail.com
 - 💼 LinkedIn: [gatsoundou-junior-stevy](https://www.linkedin.com/in/junior-stevy-gatsoundou-20339b25b/))
-- 🐙 GitHub: [@gatsoundoujuniior-netizen](https://github.com/gatsoundoujuniior-netizen))
+- 🐙 GitHub: [gatsoundoujuniior-netizen](https://github.com/gatsoundoujuniior-netizen))
 
 ## 🙏 Remerciements
 
