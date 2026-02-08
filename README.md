@@ -18,10 +18,6 @@ Système intelligent de détection de fraude bancaire utilisant le Machine Learn
 
 **Statut** : ✅ Conforme aux standards bancaires internationaux (85-95%)
 
-## 🖼️ Captures d'Écran
-
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Principal)
-
 ## 🚀 Fonctionnalités
 
 - ✅ Prédiction en temps réel des transactions frauduleuses
@@ -69,7 +65,7 @@ projet-fraude-bancaire/
 ### 1. Cloner le Repository
 
 ```bash
-git clone https://github.com/votre-username/detection-fraude-bancaire.git
+git clone https://github.com/gatsoundoujuniior-netizen/detection-fraude-bancaire.git
 cd detection-fraude-bancaire
 ```
 
@@ -220,9 +216,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 **GATSOUNDOU Junior**  
 Responsable Technique
 
-- 📧 Email: votre.email@example.com
-- 💼 LinkedIn: [votre-profil](https://linkedin.com/in/votre-profil)
-- 🐙 GitHub: [@votre-username](https://github.com/votre-username)
+- 📧 Email: gatsoundoujuniior@gmail.com
+- 💼 LinkedIn: [gatsoundou-junior-stevy](https://www.linkedin.com/in/junior-stevy-gatsoundou-20339b25b/))
+- 🐙 GitHub: [@gatsoundoujuniior-netizen](https://github.com/gatsoundoujuniior-netizen))
 
 ## 🙏 Remerciements
 
