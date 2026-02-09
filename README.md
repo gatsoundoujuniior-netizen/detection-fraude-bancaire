@@ -8,6 +8,8 @@
 
 Système intelligent de détection de fraude bancaire utilisant le Machine Learning (Random Forest) avec une interface web moderne développée en Streamlit.
 
+⭐ **des photos du projet sont disponible car je ne l'ai pas encore deploier mais je le ferais d'ici la  !** ⭐
+
 ### 🎯 Performances du Modèle
 
 - **Précision (Fraude)** : 94%
@@ -49,7 +51,7 @@ Système intelligent de détection de fraude bancaire utilisant le Machine Learn
 
 ```
 projet-fraude-bancaire/
-│
+├── photo_du_projet
 ├── API_FRAUDE.py                          # API FastAPI
 ├── application_pour_fraude_bancaire.py    # Interface Streamlit
 ├── model_wrapper.py                       # Wrapper du modèle
@@ -235,3 +237,4 @@ Responsable Technique
 ---
 
 ⭐ **Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !** ⭐
+
