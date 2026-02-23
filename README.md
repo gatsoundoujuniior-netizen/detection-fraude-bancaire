@@ -4,13 +4,13 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📊 Aperçu du Projet
+## Aperçu du Projet
 
 Système intelligent de détection de fraude bancaire utilisant le Machine Learning (Random Forest) avec une interface web moderne développée en Streamlit.
 
-⭐ **des photos du projet sont disponible car je ne l'ai pas encore deploier mais je le ferais d'ici la  !** ⭐
+ **des photos du projet sont disponible car je ne l'ai pas encore deploier mais je le ferais d'ici la  !** ⭐
 
-### 🎯 Performances du Modèle
+###  Performances du Modèle
 
 - **Précision (Fraude)** : 94%
 - **Recall** : 81%
@@ -20,17 +20,17 @@ Système intelligent de détection de fraude bancaire utilisant le Machine Learn
 
 **Statut** : ✅ Conforme aux standards bancaires internationaux (85-95%)
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
-- ✅ Prédiction en temps réel des transactions frauduleuses
-- 📊 Dashboard interactif avec visualisations Plotly
-- 🎯 Système d'alerte à double seuillage (35% et 80%)
-- 📈 Statistiques et métriques de performance
-- 🔒 Conformité aux normes bancaires
-- 💻 API RESTful avec FastAPI
-- 🎨 Interface moderne avec gradient violet
+-  Prédiction en temps réel des transactions frauduleuses
+-  Dashboard interactif avec visualisations Plotly
+-  Système d'alerte à double seuillage (35% et 80%)
+-  Statistiques et métriques de performance
+-  Conformité aux normes bancaires
+-  API RESTful avec FastAPI
+-  Interface moderne avec gradient violet
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 ### Backend
 - **FastAPI** - API REST haute performance
@@ -47,7 +47,7 @@ Système intelligent de détection de fraude bancaire utilisant le Machine Learn
 - **Streamlit Cloud** - Hébergement gratuit
 - **GitHub** - Contrôle de version
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```
 projet-fraude-bancaire/
@@ -62,7 +62,7 @@ projet-fraude-bancaire/
 └── Rapport_Test_Validation_Fraude_Bancaire.pdf  # Rapport technique
 ```
 
-## 🔧 Installation Locale
+##  Installation Locale
 
 ### 1. Cloner le Repository
 
@@ -145,7 +145,7 @@ Content-Type: application/json
 }
 ```
 
-## 🧪 Tests
+##  Tests
 
 ### Exemples de Transactions Test
 
@@ -166,10 +166,10 @@ Time: 40650, V1: -6.902, V2: 6.451, ..., Amount: 1499.99
 ### 1. Préparer le Repository
 
 Assurez-vous d'avoir :
-- ✅ `requirements.txt`
-- ✅ `application_pour_fraude_bancaire.py`
-- ✅ `model_wrapper.py`
-- ✅ `rf_fraude_final_with_threshold.pkl`
+-  `requirements.txt`
+-  `application_pour_fraude_bancaire.py`
+-  `model_wrapper.py`
+-  `rf_fraude_final_with_threshold.pkl`
 
 ### 2. Déployer
 
@@ -191,15 +191,15 @@ Assurez-vous d'avoir :
 | F1-Score | 87% | 75-90% | ✅ Optimal |
 | ROC-AUC | 0.90+ | > 0.85 | ✅ Excellent |
 
-## 🔐 Conformité et Sécurité
+## Conformité et Sécurité
 
-- ✅ Respect des normes bancaires internationales
-- ✅ Scores probabilistes (jamais 100% - principe de prudence)
-- ✅ Double seuillage pour minimiser faux positifs/négatifs
-- ✅ Traçabilité et audit possibles
-- ✅ Compatible RGPD
+-  Respect des normes bancaires internationales
+-  Scores probabilistes (jamais 100% - principe de prudence)
+-  Double seuillage pour minimiser faux positifs/négatifs
+-  Traçabilité et audit possibles
+-  Compatible RGPD
 
-## 🤝 Contribution
+##  Contribution
 
 Les contributions sont les bienvenues ! Pour contribuer :
 
@@ -209,11 +209,11 @@ Les contributions sont les bienvenues ! Pour contribuer :
 4. Pushez vers la branche (`git push origin feature/amelioration`)
 5. Ouvrez une Pull Request
 
-## 📝 License
+##  License
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 👤 Auteur
+##  Auteur
 
 **GATSOUNDOU Junior**  
 Responsable Technique
@@ -222,13 +222,13 @@ Responsable Technique
 - 💼 LinkedIn: [gatsoundou-junior-stevy](https://www.linkedin.com/in/junior-stevy-gatsoundou-20339b25b/))
 - 🐙 GitHub: [gatsoundoujuniior-netizen](https://github.com/gatsoundoujuniior-netizen))
 
-## 🙏 Remerciements
+## Remerciements
 
 - Dataset : [Credit Card Fraud Detection - Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Framework : Streamlit, FastAPI, Scikit-learn
 - Inspiration : Normes de détection de fraude du secteur bancaire
 
-## 📚 Documentation Complémentaire
+##  Documentation Complémentaire
 
 - [Rapport de Test et Validation (PDF)](./Rapport_Test_Validation_Fraude_Bancaire.pdf)
 - [Documentation FastAPI](https://fastapi.tiangolo.com/)
